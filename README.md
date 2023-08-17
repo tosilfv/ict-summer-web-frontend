@@ -3,7 +3,7 @@
 ## Installing and start up
 
 Install dependencies by running the command npm install.<br />
-Start the program by running the command nodemon in the terminal.
+Start the program by running the command npm start in the terminal.
 
 ## Project details
 
